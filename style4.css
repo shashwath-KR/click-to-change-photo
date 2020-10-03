@@ -1,0 +1,53 @@
+h1 { text-align: center;
+	margin-top: 20px;
+	text-decoration: underline;
+  }
+
+.image1 {
+	display: block;
+	margin: auto;
+	width: 900px;
+	height: 600px;
+	background: url(img1.jpg) no-repeat;
+}  
+
+.image2 {
+	display: block;
+	margin: auto;
+	width: 900px;
+	height: 600px;
+	background: url(img2.jpeg) no-repeat fixed center;
+}  
+
+.image3 {
+	display: block;
+	margin: auto;
+	width: 900px;
+	height: 600px;
+	background: url(img3.jpg) no-repeat;
+}  
+
+.image4 {
+	display: block;
+	margin: auto;
+	width: 900px;
+	height: 600px;
+	background: url(img4.jpg) no-repeat fixed center;
+}  
+
+.image5 {
+	display: block;
+	margin: auto;
+	width: 900px;
+	height: 600px;
+	background: url(img5.jpg) no-repeat;
+}  
+
+.image6 {
+	display: block;
+	margin: auto;
+	width: 900px;
+	height: 600px;
+	background: url(img6.jpg) no-repeat;
+}  
+
